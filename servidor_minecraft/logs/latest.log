@@ -81,3 +81,67 @@
 [23:24:29] [Server thread/INFO]: Koi_btg[/127.118.199.135:52753] logged in with entity id 3250 at ([world]989.880297103819, 86.0, 499.91049201195557)
 [23:25:14] [Server thread/INFO]: Koi_btg issued server command: /skill
 [23:25:23] [Server thread/INFO]: Koi_btg issued server command: /skill
+[23:25:59] [Server thread/INFO]: Stephyn123 issued server command: /tp Koi_btg
+[23:25:59] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to Koi_btg]
+[23:26:13] [Async Chat Thread - #1/INFO]: [Not Secure] <Koi_btg> q paso steps?
+[23:26:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Stephyn123> nada bro
+[23:26:21] [Server thread/INFO]: Stephyn123 issued server command: /tp IamNik
+[23:26:21] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to IamNik]
+[23:26:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Koi_btg> XD
+[23:26:37] [Server thread/INFO]: soft lost connection: Disconnected
+[23:26:37] [Server thread/INFO]: soft left the game
+[23:26:37] [User Authenticator #3/INFO]: UUID of player soft is 2abce07c-ec5c-3155-a83d-28c7af4fb6eb
+[23:26:39] [Server thread/INFO]: soft joined the game
+[23:26:39] [Server thread/INFO]: soft[/127.102.58.161:44913] logged in with entity id 5002 at ([world]-295.3484836168179, 6.0, 31.621820389523858)
+[23:26:59] [Async Chat Thread - #1/INFO]: [Not Secure] <Koi_btg> XD
+[23:27:01] [Server thread/INFO]: Koi_btg issued server command: /skill
+[23:27:07] [Async Chat Thread - #1/INFO]: [Not Secure] <IamNik> steps esta es mi base
+[23:27:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Stephyn123> ok
+[23:27:12] [Async Chat Thread - #1/INFO]: [Not Secure] <IamNik> no mas digo
+[23:27:15] [Server thread/INFO]: Stephyn123 issued server command: /tp Stephyn123
+[23:27:15] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to Stephyn123]
+[23:27:20] [Async Chat Thread - #1/INFO]: [Not Secure] <IamNik> team?
+[23:27:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Stephyn123> no
+[23:27:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Stephyn123> xd
+[23:27:27] [Async Chat Thread - #1/INFO]: [Not Secure] <IamNik> ok
+[23:27:28] [User Authenticator #3/INFO]: UUID of player Arekuus is 8f988514-fc94-36d8-95c1-48d0ce207e9b
+[23:27:30] [Server thread/INFO]: Arekuus joined the game
+[23:27:30] [Server thread/INFO]: Arekuus[/127.204.13.132:53031] logged in with entity id 5367 at ([world]-189.15798915139368, 64.0, 219.69262469608813)
+[23:27:50] [Async Chat Thread - #1/INFO]: [Not Secure] <Arekuus> bro esto yo lo tenia antes
+[23:27:58] [Server thread/INFO]: Stephyn123 issued server command: /tp Arekuus
+[23:27:58] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to Arekuus]
+[23:28:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Arekuus> haceme tp
+[23:28:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Arekuus> a donde nik
+[23:28:45] [Server thread/INFO]: Arekuus issued server command: /skill
+[23:29:21] [Server thread/INFO]: Koi_btg issued server command: /skill
+[23:29:21] [Async Chat Thread - #1/INFO]: [Not Secure] <Arekuus> donde estas nik
+[23:29:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Arekuus> coord
+[23:29:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Arekuus> al priv
+[23:29:28] [Async Chat Thread - #1/INFO]: [Not Secure] <IamNik> en md estan
+[23:29:32] [Server thread/INFO]: Koi_btg issued server command: /skill
+[23:29:36] [Async Chat Thread - #1/INFO]: [Not Secure] <IamNik> te las pase esa vez
+[23:30:19] [Server thread/INFO]: Stephyn123 has made the advancement [Stone Age]
+[23:33:44] [Server thread/INFO]: Koi_btg lost connection: Disconnected
+[23:33:44] [Server thread/INFO]: Koi_btg left the game
+[23:33:56] [Server thread/INFO]: Arekuus has made the advancement [Cover Me with Diamonds]
+[23:34:11] [Async Chat Thread - #2/INFO]: [Not Secure] <soft> bro encontré una base abandonada
+[23:34:15] [Async Chat Thread - #4/INFO]: [Not Secure] <soft> de loot
+[23:34:19] [Async Chat Thread - #4/INFO]: [Not Secure] <soft> !!
+[23:34:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Arekuus> quien te opregunto
+[23:34:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Arekuus> mentira
+[23:34:27] [Async Chat Thread - #4/INFO]: [Not Secure] <soft> :(
+[23:34:32] [Async Chat Thread - #4/INFO]: [Not Secure] <Arekuus> XDDD
+[23:34:42] [Server thread/INFO]: soft has made the advancement [Ice Bucket Challenge]
+[23:35:09] [Server thread/INFO]: soft has made the advancement [Not Today, Thank You]
+[23:35:37] [Server thread/INFO]: Stephyn123 issued server command: /tp soft
+[23:35:37] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to soft]
+[23:35:41] [Async Chat Thread - #5/INFO]: [Not Secure] <Stephyn123> QUE HACES BRO
+[23:35:45] [User Authenticator #4/INFO]: UUID of player Koi_btg is 95aa3a45-6089-3409-ad5c-f02120bc0a3d
+[23:35:46] [Async Chat Thread - #5/INFO]: [Not Secure] <Stephyn123> toma te pongo ambiente
+[23:35:47] [Server thread/INFO]: Koi_btg joined the game
+[23:35:47] [Server thread/INFO]: Koi_btg[/127.118.199.135:35959] logged in with entity id 10656 at ([world]877.9529658017973, 74.0, 402.47977261922125)
+[23:35:47] [Async Chat Thread - #5/INFO]: [Not Secure] <soft> loot
+[23:35:49] [Server thread/INFO]: IamNik was slain by Enderman
+[23:35:56] [Async Chat Thread - #5/INFO]: [Not Secure] <Arekuus> NIK
+[23:36:14] [Async Chat Thread - #5/INFO]: [Not Secure] <soft> gracias..
+[23:36:16] [Server thread/INFO]: Koi_btg has made the advancement [Fishy Business]
