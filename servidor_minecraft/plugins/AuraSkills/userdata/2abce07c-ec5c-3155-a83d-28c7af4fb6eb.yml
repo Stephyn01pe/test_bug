@@ -11,7 +11,7 @@ skills:
     xp: 32.0
   auraskills/mining:
     level: 6
-    xp: 2310.410000000045
+    xp: 3136.730000000115
   auraskills/alchemy:
     level: 0
     xp: 40.0
@@ -20,7 +20,7 @@ skills:
     xp: 245.90302066802974
   auraskills/agility:
     level: 3
-    xp: 850.18218
+    xp: 873.2821800000002
   auraskills/fishing:
     level: 0
     xp: 0.0
@@ -32,16 +32,7 @@ skills:
     xp: 0.0
   auraskills/excavation:
     level: 0
-    xp: 13.5
+    xp: 18.9
 mana: 24.0
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: mining-stamina
-    stat: auraskills/toughness
-    operation: ADD
-    value: 1.0
-ability_data:
-  auraskills/speed_mine:
-    cooldown: 1421
