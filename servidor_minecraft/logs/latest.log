@@ -1,156 +1,121 @@
-[00:02:47] [Server thread/INFO]: IamNik lost connection: Disconnected
-[00:02:47] [Server thread/INFO]: IamNik left the game
-[00:03:52] [Async Chat Thread - #6/INFO]: [Not Secure] <soft> no te salgas
-[00:03:56] [Async Chat Thread - #6/INFO]: [Not Secure] <soft> me salgo un rsto
-[00:03:57] [Async Chat Thread - #6/INFO]: [Not Secure] <Koi_btg> oka
-[00:04:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Koi_btg> no lo iba a hacer
-[00:04:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Koi_btg> tranqua
-[00:04:02] [Async Chat Thread - #6/INFO]: [Not Secure] <soft> no t salgas para ir no se cierre
-[00:04:07] [Async Chat Thread - #6/INFO]: [Not Secure] <soft> por eso nomás jeje
-[00:04:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Koi_btg> ya sep
-[00:04:13] [Server thread/INFO]: soft lost connection: Disconnected
-[00:04:13] [Server thread/INFO]: soft left the game
-[00:06:28] [User Authenticator #3/INFO]: UUID of player soft is 2abce07c-ec5c-3155-a83d-28c7af4fb6eb
-[00:06:30] [Server thread/INFO]: Koi_btg has made the advancement [Isn't It Iron Pick]
-[00:06:31] [Server thread/INFO]: soft joined the game
-[00:06:31] [Server thread/INFO]: soft[/127.102.58.161:38931] logged in with entity id 11202 at ([world]-103.99446878870687, -46.4375, 51.06488565426116)
-[00:06:34] [Async Chat Thread - #8/INFO]: [Not Secure] <soft> ola
-[00:06:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Koi_btg> olap
-[00:07:30] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:11:14] [Server thread/INFO]: soft was slain by Zombie
-[00:12:25] [Server thread/INFO]: Koi_btg has made the advancement [Diamonds!]
-[00:12:57] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:17:12] [Server thread/INFO]: soft lost connection: Disconnected
-[00:17:12] [Server thread/INFO]: soft left the game
-[00:17:21] [Server thread/INFO]: Koi_btg has made the advancement [Cover Me with Diamonds]
-[00:18:52] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:19:00] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:19:14] [User Authenticator #4/INFO]: UUID of player Kenenie is 06846177-e64a-315f-9180-70d253ddf5e3
-[00:19:16] [Server thread/INFO]: Kenenie joined the game
-[00:19:16] [Server thread/INFO]: Kenenie[/127.192.198.101:44793] logged in with entity id 14678 at ([world]10.5, 65.0, -0.5)
-[00:19:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Kenenie> NOO
-[00:20:30] [Server thread/INFO]: Kenenie issued server command: /skill
-[00:21:01] [Server thread/INFO]: Kenenie lost connection: Disconnected
-[00:21:01] [Server thread/INFO]: Kenenie left the game
-[00:21:09] [User Authenticator #5/INFO]: UUID of player Kenenie is 06846177-e64a-315f-9180-70d253ddf5e3
-[00:21:10] [Server thread/INFO]: Kenenie joined the game
-[00:21:10] [Server thread/INFO]: Kenenie[/127.192.198.101:37183] logged in with entity id 15187 at ([world]7.007587281225635, 66.0, 4.070882489587906)
-[00:21:51] [Server thread/INFO]: Kenenie lost connection: Disconnected
-[00:21:51] [Server thread/INFO]: Kenenie left the game
-[00:22:03] [User Authenticator #5/INFO]: UUID of player Kenenie is 06846177-e64a-315f-9180-70d253ddf5e3
-[00:22:05] [Server thread/INFO]: Kenenie joined the game
-[00:22:05] [Server thread/INFO]: Kenenie[/127.192.198.101:53365] logged in with entity id 15434 at ([world]2.3145817757109604, 65.0, 2.2142750076169397)
-[00:25:14] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:25:46] [Server thread/INFO]: Kenenie lost connection: Disconnected
-[00:25:46] [Server thread/INFO]: Kenenie left the game
-[00:26:16] [User Authenticator #6/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
-[00:26:17] [Server thread/INFO]: correa2 joined the game
-[00:26:17] [Server thread/INFO]: correa2[/127.192.198.101:43069] logged in with entity id 16325 at ([world]-2.5, 68.0, 7.5)
-[00:26:46] [Server thread/INFO]: correa2 lost connection: Disconnected
-[00:26:46] [Server thread/INFO]: correa2 left the game
-[00:27:13] [User Authenticator #6/INFO]: UUID of player Kenenie is 06846177-e64a-315f-9180-70d253ddf5e3
-[00:27:15] [Server thread/INFO]: Kenenie joined the game
-[00:27:15] [Server thread/INFO]: Kenenie[/127.192.198.101:43035] logged in with entity id 16545 at ([world]-0.37045610387315564, 66.0, -5.392298879922732)
-[00:28:44] [Server thread/INFO]: Kenenie lost connection: Disconnected
-[00:28:44] [Server thread/INFO]: Kenenie left the game
-[00:29:08] [User Authenticator #7/INFO]: UUID of player z_correa is b8183dd7-5653-3c89-9750-e4c1a6261c6d
-[00:29:10] [Server thread/INFO]: z_correa joined the game
-[00:29:10] [Server thread/INFO]: z_correa[/127.192.198.101:35949] logged in with entity id 16946 at ([world]7.5, 66.0, 9.5)
-[00:29:19] [Server thread/INFO]: z_correa lost connection: Disconnected
-[00:29:19] [Server thread/INFO]: z_correa left the game
-[00:30:06] [User Authenticator #7/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
-[00:30:08] [Server thread/INFO]: correa2 joined the game
-[00:30:08] [Server thread/INFO]: correa2[/127.192.198.101:40955] logged in with entity id 17208 at ([world]-22.23136711063553, 67.0, 10.475444543750609)
-[00:30:30] [Server thread/INFO]: correa2 lost connection: Disconnected
-[00:30:30] [Server thread/INFO]: correa2 left the game
-[00:30:55] [User Authenticator #7/INFO]: UUID of player Kenenie is 06846177-e64a-315f-9180-70d253ddf5e3
-[00:30:57] [Server thread/INFO]: Kenenie joined the game
-[00:30:57] [Server thread/INFO]: Kenenie[/127.192.198.101:59833] logged in with entity id 17447 at ([world]-19.637172205332107, 66.0, 7.903550709537515)
-[00:31:01] [Server thread/INFO]: Kenenie lost connection: Disconnected
-[00:31:01] [Server thread/INFO]: Kenenie left the game
-[00:31:34] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:32:13] [User Authenticator #8/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
-[00:32:14] [Server thread/INFO]: correa2 joined the game
-[00:32:14] [Server thread/INFO]: correa2[/127.192.198.101:52403] logged in with entity id 17764 at ([world]-22.458318689020203, 69.0, 18.316834941938815)
-[00:32:21] [Server thread/INFO]: correa2 lost connection: Disconnected
-[00:32:21] [Server thread/INFO]: correa2 left the game
-[00:32:47] [User Authenticator #8/INFO]: UUID of player Kenenie is 06846177-e64a-315f-9180-70d253ddf5e3
-[00:32:49] [Server thread/INFO]: Kenenie joined the game
-[00:32:49] [Server thread/INFO]: Kenenie[/127.192.198.101:59257] logged in with entity id 17918 at ([world]-21.5039419291741, 67.0, 10.699999988079071)
-[00:33:17] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:33:21] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:33:27] [Server thread/INFO]: Kenenie lost connection: Disconnected
-[00:33:27] [Server thread/INFO]: Kenenie left the game
-[00:33:57] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:34:03] [User Authenticator #9/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
-[00:34:05] [Server thread/INFO]: correa2 joined the game
-[00:34:05] [Server thread/INFO]: correa2[/127.192.198.101:56683] logged in with entity id 18142 at ([world]-11.508322872918946, 64.0, 13.18045267473897)
-[00:34:18] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:34:20] [Server thread/INFO]: correa2 has made the advancement [Suit Up]
-[00:34:21] [Server thread/INFO]: correa2 has made the advancement [Stone Age]
-[00:34:22] [Server thread/INFO]: correa2 has made the advancement [Isn't It Iron Pick]
-[00:34:22] [Server thread/INFO]: correa2 has made the advancement [Cover Me with Diamonds]
-[00:34:23] [Server thread/INFO]: correa2 has made the advancement [Acquire Hardware]
-[00:34:23] [Server thread/INFO]: correa2 has made the advancement [Who is Cutting Onions?]
-[00:35:21] [Server thread/INFO]: correa2 has made the advancement [Monster Hunter]
-[00:35:54] [Server thread/INFO]: correa2 lost connection: Disconnected
-[00:35:54] [Server thread/INFO]: correa2 left the game
-[00:36:22] [Server thread/INFO]: Koi_btg has made the advancement [Not Today, Thank You]
-[00:36:26] [User Authenticator #10/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
-[00:36:28] [Server thread/INFO]: correa2 joined the game
-[00:36:28] [Server thread/INFO]: correa2[/127.192.198.101:41073] logged in with entity id 18884 at ([world]-11.699999988079071, 27.0, -29.30000001192093)
-[00:37:26] [Server thread/INFO]: correa2 lost connection: Disconnected
-[00:37:27] [Server thread/INFO]: correa2 left the game
-[00:37:29] [User Authenticator #11/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
-[00:37:30] [Server thread/INFO]: correa2 joined the game
-[00:37:30] [Server thread/INFO]: correa2[/127.192.198.101:56841] logged in with entity id 19218 at ([world]-15.60919628269256, 13.0, -16.493394536981302)
-[00:37:36] [Server thread/INFO]: correa2 drowned
-[00:38:35] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:40:55] [User Authenticator #12/INFO]: UUID of player IamNik is 9e3ad26a-793b-3e52-b0b3-e5468394702d
-[00:40:58] [Server thread/INFO]: IamNik joined the game
-[00:40:58] [Server thread/INFO]: IamNik[/127.224.62.13:58717] logged in with entity id 20577 at ([world]216.76292005105094, 64.0, -74.46668924132892)
-[00:41:18] [Async Chat Thread - #12/INFO]: [Not Secure] <IamNik> ya volvi de comer
-[00:41:24] [Async Chat Thread - #12/INFO]: [Not Secure] <correa2> que comiste
-[00:41:36] [Async Chat Thread - #12/INFO]: [Not Secure] <IamNik> maduro con queso
-[00:46:11] [Server thread/INFO]: Koi_btg issued server command: /skill
-[00:51:33] [Server thread/INFO]: Koi_btg lost connection: Disconnected
-[00:51:33] [Server thread/INFO]: Koi_btg left the game
-[00:51:50] [User Authenticator #13/INFO]: UUID of player Koi_btg is 95aa3a45-6089-3409-ad5c-f02120bc0a3d
-[00:51:51] [Server thread/INFO]: Koi_btg joined the game
-[00:51:51] [Server thread/INFO]: Koi_btg[/127.118.199.135:59103] logged in with entity id 24972 at ([world]761.6032689673656, 77.0, 438.14813193497076)
-[00:54:39] [Server thread/INFO]: Koi_btg has made the advancement [A Seedy Place]
-[00:55:36] [Server thread/INFO]: Villager Villager['Villager'/25170, uuid='e962efbb-a0c9-4a0a-8b50-c9f1edb982c1', l='ServerLevel[world]', x=656.30, y=79.18, z=340.36, cpos=[41, 21], tl=9645, v=true] died, message: 'Villager was slain by Zombie'
-[00:58:12] [Server thread/INFO]: Koi_btg has made the advancement [Best Friends Forever]
-[00:59:56] [Server thread/INFO]: Koi_btg issued server command: /skill
-[01:00:43] [Server thread/INFO]: correa2 has made the advancement [Diamonds!]
-[01:02:21] [Server thread/INFO]: Koi_btg lost connection: Disconnected
-[01:02:21] [Server thread/INFO]: Koi_btg left the game
-[01:02:26] [Server thread/INFO]: correa2 has made the advancement [Infinity Cave]
-[01:02:39] [Server thread/INFO]: correa2 has made the advancement [Not Today, Thank You]
-[01:02:44] [Server thread/INFO]: correa2 has made the advancement [Perplexing Stuff Init?]
-[01:02:44] [Server thread/INFO]: Named entity Pillager['Common Pillager'/29532, uuid='e8f0eef8-2267-4527-8fa1-5f4b238c1360', l='ServerLevel[world]', x=118.81, y=-80.00, z=-94.63, cpos=[7, -6], tl=291, v=true] died: Common Pillager was slain by correa2
-[01:03:00] [Server thread/INFO]: Named entity Spider['Common Spider'/29553, uuid='da152eea-8db3-47e2-a996-682bb778ddba', l='ServerLevel[world]', x=118.90, y=-80.00, z=-99.92, cpos=[7, -7], tl=411, v=true] died: Common Spider was slain by correa2
-[01:03:15] [User Authenticator #14/INFO]: UUID of player Koi_btg is 95aa3a45-6089-3409-ad5c-f02120bc0a3d
-[01:03:17] [Server thread/INFO]: Koi_btg joined the game
-[01:03:17] [Server thread/INFO]: Koi_btg[/127.118.199.135:41685] logged in with entity id 29706 at ([world]360.2908277646733, 80.0, 419.04532658954264)
-[01:03:53] [Server thread/INFO]: Koi_btg has made the advancement [Hot Stuff]
-[01:06:08] [Server thread/INFO]: Named entity EnderMan['Common Enderman'/31147, uuid='5feeb497-28ec-4a7a-9359-386941aed1d3', l='ServerLevel[world]', x=100.45, y=-81.00, z=-93.38, cpos=[6, -6], tl=206, v=true] died: Common Enderman was slain by correa2
-[01:06:22] [Server thread/INFO]: Koi_btg has made the advancement [Ice Bucket Challenge]
-[01:07:10] [Server thread/INFO]: Named entity Slime['Common Slime'/31562, uuid='ad88483b-d05a-4c96-a58e-3dc2931b3bfd', l='ServerLevel[world]', x=118.93, y=-83.50, z=-198.04, cpos=[7, -13], tl=282, v=true] died: Common Slime was slain by correa2
-[01:07:46] [Server thread/INFO]: Named entity Drowned['Common Drowned'/31863, uuid='1bddacbb-46c6-43af-8bee-a59fd0eeb8d8', l='ServerLevel[world]', x=83.00, y=-89.00, z=-226.27, cpos=[5, -15], tl=195, v=true] died: Common Drowned was slain by correa2
-[01:07:54] [Server thread/INFO]: Named entity Spider['Common Spider'/31895, uuid='4bf30a08-6f1e-4c2a-a62b-f428ef563220', l='ServerLevel[world]', x=85.13, y=-89.00, z=-225.17, cpos=[5, -15], tl=185, v=true] died: Common Spider was slain by correa2
-[01:08:39] [Server thread/INFO]: correa2 has made the advancement [☠ ☠ ☠ ☠ ☠]
-[01:08:39] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/32041, uuid='946d161e-97c5-4068-906c-491e2c53acbe', l='ServerLevel[world]', x=80.35, y=-92.00, z=-235.35, cpos=[5, -15], tl=554, v=true] died: Uncommon Drowned was slain by correa2
-[01:08:48] [Async Chat Thread - #14/INFO]: [Not Secure] <IamNik> QQQQQQ
-[01:08:55] [User Authenticator #15/INFO]: UUID of player Stephyn123 is 163554d9-f4b1-3822-a84b-d9cb7a1216c1
-[01:08:56] [Async Chat Thread - #14/INFO]: [Not Secure] <IamNik> CUAL ES ESE WE
-[01:08:56] [Server thread/INFO]: Stephyn123 joined the game
-[01:08:56] [Server thread/INFO]: Stephyn123[/127.152.65.23:40261] logged in with entity id 32255 at ([world]-161.17731267585322, -22.506092519770526, 9.04759320015742)
-[01:09:01] [Server thread/INFO]: Stephyn123 lost connection: Disconnected
-[01:09:01] [Server thread/INFO]: Stephyn123 left the game
-[01:09:33] [Server thread/INFO]: Koi_btg lost connection: Disconnected
-[01:09:33] [Server thread/INFO]: Koi_btg left the game
-[01:09:38] [Server thread/WARN]: Skipping Entity with id 
-[01:09:50] [Server thread/INFO]: Named entity Creeper['Common Rocklops'/32554, uuid='f1121a84-b335-47ea-9516-107e50a75e20', l='ServerLevel[world]', x=103.46, y=-87.00, z=-229.18, cpos=[6, -15], tl=230, v=true] died: Common Rocklops was slain by correa2
-[01:10:23] [Server thread/INFO]: Named entity WitherSkeleton['Common Wither Skeleton'/32692, uuid='83619905-91b3-45f5-93b7-43459716b0f6', l='ServerLevel[world]', x=109.60, y=-85.00, z=-203.58, cpos=[6, -13], tl=221, v=true] died: Common Wither Skeleton was slain by correa2
-[01:11:31] [Server thread/INFO]: Named entity Drowned['Common Drowned'/32902, uuid='9a8e2e75-7d85-4a86-8deb-b23e9d9f342c', l='ServerLevel[world]', x=116.32, y=-84.00, z=-204.76, cpos=[7, -13], tl=428, v=true] died: Common Drowned was slain by correa2
+[21:20:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[21:20:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[21:20:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:20:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[21:20:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - AuraSkills (2.3.3)
+[21:20:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:20:38] [ServerMain/INFO]: Loaded 1291 recipes
+[21:20:38] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[21:20:38] [ServerMain/INFO]: Loaded 1632 advancements
+[21:20:38] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:20:38] [Server thread/INFO]: Loading properties
+[21:20:38] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[21:20:39] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:20:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:20:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:20:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[21:20:41] [Server thread/INFO]: Default game type: SURVIVAL
+[21:20:41] [Server thread/INFO]: Generating keypair
+[21:20:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:20:41] [Server thread/INFO]: Using epoll channel type
+[21:20:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:20:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:20:41] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.3.3
+[21:20:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:20:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:20:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:20:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:20:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:20:41] [Server thread/INFO]: Preparing level "world"
+[21:20:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:20:44] [Server thread/INFO]: Time elapsed: 1547 ms
+[21:20:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:20:45] [Server thread/INFO]: Time elapsed: 347 ms
+[21:20:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:20:45] [Server thread/INFO]: Time elapsed: 142 ms
+[21:20:45] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.3.3
+[21:20:47] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[21:20:49] [Server thread/INFO]: [AuraSkills] Loaded 158 config options in 121 ms
+[21:20:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[21:20:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[21:20:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[21:20:49] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[21:20:50] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:20:51] [Server thread/INFO]: [spark] Starting background profiler...
+[21:20:52] [Server thread/INFO]: Done preparing level "world" (10.502s)
+[21:20:52] [Server thread/INFO]: Running delayed init tasks
+[21:20:53] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[21:20:53] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[21:20:53] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[21:20:53] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[21:20:54] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:20:54] [Server thread/INFO]: [AuraSkills] Loaded 7 menus
+[21:20:54] [Server thread/INFO]: Done (30.714s)! For help, type "help"
+[21:20:54] [Server thread/INFO]: Timings Reset
+[21:24:26] [User Authenticator #0/INFO]: UUID of player soft is 2abce07c-ec5c-3155-a83d-28c7af4fb6eb
+[21:24:28] [Server thread/INFO]: soft joined the game
+[21:24:28] [Server thread/INFO]: soft[/127.102.58.161:40879] logged in with entity id 64 at ([world]-167.58979569085875, 55.0, 33.39810128996691)
+[21:24:43] [User Authenticator #0/INFO]: UUID of player correa2 is 05c52e20-0e2e-35c9-9f02-453b9ba07f96
+[21:24:45] [Server thread/INFO]: correa2 joined the game
+[21:24:45] [Server thread/INFO]: correa2[/127.192.198.101:49093] logged in with entity id 313 at ([world]82.64252844897904, -35.0, -199.90301372244946)
+[21:24:49] [Server thread/INFO]: correa2 suffocated in a wall
+[21:24:53] [Async Chat Thread - #0/INFO]: [Not Secure] <soft> XDDD
+[21:25:02] [Async Chat Thread - #1/INFO]: [Not Secure] <correa2> ???
+[21:25:33] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> y ahora que hago man
+[21:25:45] [Server thread/INFO]: [Not Secure] [Server] ya entro
+[21:25:54] [Async Chat Thread - #0/INFO]: [Not Secure] <soft> cállate sv
+[21:26:03] [Async Chat Thread - #0/INFO]: [Not Secure] <soft> por qué habla el server ke miedo
+[21:26:09] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> es que
+[21:26:11] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> es el
+[21:26:11] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> eh
+[21:26:15] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> es el espiritu de quesas
+[21:26:39] [Server thread/INFO]: Teleported correa2 to 80.500000, -35.000000, -198.500000
+[21:26:46] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> steep
+[21:26:50] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> STEP LA CONCHA DE TU MADRE
+[21:26:51] [Server thread/INFO]: correa2 suffocated in a wall
+[21:26:55] [Async Chat Thread - #0/INFO]: [Not Secure] <soft> JAJAJA
+[21:26:57] [User Authenticator #1/INFO]: UUID of player Stephyn123 is 163554d9-f4b1-3822-a84b-d9cb7a1216c1
+[21:26:58] [Server thread/INFO]: Stephyn123 joined the game
+[21:26:58] [Server thread/INFO]: Stephyn123[/127.152.65.23:50647] logged in with entity id 1374 at ([world]-158.72138475119445, -19.45946551811442, 7.896496756979761)
+[21:27:08] [Server thread/INFO]: Stephyn123 issued server command: /tp 80 -35 -199
+[21:27:08] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to 80.500000, -35.000000, -198.500000]
+[21:27:25] [Server thread/INFO]: Stephyn123 issued server command: /gamemode spectator
+[21:27:25] [Server thread/INFO]: [Stephyn123: Set own game mode to Spectator Mode]
+[21:27:34] [Server thread/INFO]: Stephyn123 issued server command: /gamemode survival
+[21:27:34] [Server thread/INFO]: [Stephyn123: Set own game mode to Survival Mode]
+[21:27:36] [Server thread/INFO]: Stephyn123 issued server command: /gamemode creative
+[21:27:36] [Server thread/INFO]: [Stephyn123: Set own game mode to Creative Mode]
+[21:27:39] [Server thread/INFO]: Stephyn123 issued server command: /tp correa2 Stephyn123
+[21:27:39] [Server thread/INFO]: [Stephyn123: Teleported correa2 to Stephyn123]
+[21:27:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Stephyn123> solo es eso
+[21:27:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Stephyn123> ?
+[21:27:56] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> no
+[21:28:04] [Async Chat Thread - #0/INFO]: [Not Secure] <correa2> me falta la armadura las armas y el pico
+[21:28:07] [Server thread/INFO]: Stephyn123 issued server command: /gamemode spectator
+[21:28:07] [Server thread/INFO]: [Stephyn123: Set own game mode to Spectator Mode]
+[21:28:21] [Server thread/INFO]: Stephyn123 issued server command: /effect give Stephyn123 minecraft:night_vision infinite
+[21:28:21] [Server thread/INFO]: [Stephyn123: Applied effect Night Vision to Stephyn123]
+[21:28:46] [Server thread/INFO]: Stephyn123 issued server command: /gamemode creative
+[21:28:46] [Server thread/INFO]: [Stephyn123: Set own game mode to Creative Mode]
+[21:28:51] [Server thread/INFO]: Stephyn123 issued server command: /tp correa2 Stephyn123
+[21:28:51] [Server thread/INFO]: [Stephyn123: Teleported correa2 to Stephyn123]
+[21:29:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Stephyn123> espera
+[21:29:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> baja
+[21:29:11] [Async Chat Thread - #3/INFO]: [Not Secure] <correa2> steps porque sos una mujer negra
+[21:29:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> voy a tepear
+[21:29:19] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> las entidades
+[21:29:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> en mi ubicacion
+[21:29:25] [Async Chat Thread - #3/INFO]: [Not Secure] <soft> me salgo?
+[21:29:28] [Async Chat Thread - #3/INFO]: [Not Secure] <correa2> como asi
+[21:29:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> no
+[21:29:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> que correa baje
+[21:29:40] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> porque voy a tepear las entidades en mi ubiacion
+[21:29:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> osea puede agarrar creeper o zombies
+[21:29:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> tmb
+[21:30:08] [Async Chat Thread - #3/INFO]: [Not Secure] <soft> se va llevar a mi pereo
+[21:30:10] [Async Chat Thread - #3/INFO]: [Not Secure] <soft> perro
+[21:30:11] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[distance=20] 82.47 -35.28 -199.00.
+[21:30:12] [Async Chat Thread - #3/INFO]: [Not Secure] <soft> ni verdad
+[21:30:14] [Async Chat Thread - #3/INFO]: [Not Secure] <soft> no
+[21:30:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Stephyn123> no
