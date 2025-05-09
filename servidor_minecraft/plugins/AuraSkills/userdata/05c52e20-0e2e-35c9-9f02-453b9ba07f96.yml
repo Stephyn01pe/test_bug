@@ -17,7 +17,7 @@ skills:
     xp: 35.19999999999999
   auraskills/defense:
     level: 1
-    xp: 184.06948667764664
+    xp: 198.06948667764664
   auraskills/enchanting:
     level: 0
     xp: 18.0
@@ -32,7 +32,7 @@ skills:
     xp: 0.0
   auraskills/agility:
     level: 3
-    xp: 739.8669600000002
+    xp: 769.3262800000001
 mana: 28.0
 action_bar:
   idle: true
