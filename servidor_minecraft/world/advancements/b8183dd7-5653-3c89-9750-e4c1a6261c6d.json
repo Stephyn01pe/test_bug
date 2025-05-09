@@ -1,0 +1,39 @@
+{
+  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
+    "criteria": {
+      "requirement": "2025-05-09 00:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-09 00:29:10 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/thunder_harpoon/tick": {
+    "criteria": {
+      "requirement": "2025-05-09 00:29:10 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2025-05-09 00:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-05-09 00:29:11 +0000"
+    },
+    "done": false
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2025-05-09 00:29:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

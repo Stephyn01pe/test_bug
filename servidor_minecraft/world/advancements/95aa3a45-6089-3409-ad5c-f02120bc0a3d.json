@@ -473,6 +473,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-08 23:55:20 +0000",
+      "bread": "2025-05-09 00:33:51 +0000",
       "cooked_chicken": "2025-05-05 00:28:42 +0000",
       "sweet_berries": "2025-05-05 00:57:00 +0000",
       "cooked_beef": "2025-05-05 00:29:32 +0000",
@@ -720,6 +721,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-09 00:40:38 +0000",
       "minecraft:nether_wastes": "2025-05-05 01:26:27 +0000"
     },
     "done": false
@@ -901,6 +903,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-09 00:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-09 00:36:22 +0000"
     },
     "done": true
   },
@@ -1087,6 +1095,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-09 00:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-09 00:17:21 +0000"
     },
     "done": true
   },
@@ -1393,6 +1407,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-09 00:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-09 00:35:10 +0000"
     },
     "done": true
   },
