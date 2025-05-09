@@ -34,7 +34,9 @@
       "minecraft:old_growth_birch_forest": "2025-05-09 21:30:23 +0000",
       "minecraft:forest": "2025-05-04 23:52:06 +0000",
       "minecraft:river": "2025-05-04 23:58:43 +0000",
-      "minecraft:birch_forest": "2025-05-05 00:04:34 +0000"
+      "minecraft:birch_forest": "2025-05-05 00:04:34 +0000",
+      "minecraft:savanna": "2025-05-09 21:39:23 +0000",
+      "minecraft:plains": "2025-05-09 21:37:20 +0000"
     },
     "done": false
   },
@@ -287,6 +289,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-05 00:20:18 +0000",
+      "minecraft:enderman": "2025-05-09 21:42:20 +0000",
       "minecraft:spider": "2025-05-05 00:18:04 +0000",
       "minecraft:zombie": "2025-05-04 23:57:24 +0000",
       "minecraft:slime": "2025-05-08 23:55:38 +0000"
@@ -1584,6 +1587,18 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-09 21:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-09 21:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-09 21:43:01 +0000"
     },
     "done": true
   },

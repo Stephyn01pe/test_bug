@@ -181,3 +181,50 @@
 [21:40:17] [Server thread/INFO]: [Stephyn123: Teleported 24 entities to Stephyn123]
 [21:40:29] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[type=minecraft:item,sort=nearest,limit=1] Stephyn123
 [21:40:29] [Server thread/INFO]: [Stephyn123: Teleported Raw Mutton to Stephyn123]
+[21:40:45] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[type=minecraft:item,sort=nearest,limit=1] Stephyn123
+[21:40:45] [Server thread/INFO]: [Stephyn123: Teleported Raw Mutton to Stephyn123]
+[21:40:52] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[type=minecraft:item,sort=nearest] Stephyn123
+[21:40:52] [Server thread/INFO]: [Stephyn123: Teleported 4 entities to Stephyn123]
+[21:40:56] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[type=minecraft:item,sort=nearest] Stephyn123
+[21:40:56] [Server thread/INFO]: [Stephyn123: Teleported Rotten Flesh to Stephyn123]
+[21:40:58] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[type=minecraft:item,sort=nearest] Stephyn123
+[21:41:02] [Server thread/INFO]: Stephyn123 issued server command: /tp @e[type=minecraft:item,sort=nearest] Stephyn123
+[21:41:02] [Server thread/INFO]: [Stephyn123: Teleported 3 entities to Stephyn123]
+[21:43:40] [Async Chat Thread - #6/INFO]: [Not Secure] <Stephyn123> yap
+[21:43:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Stephyn123> me avisan si pasa algo
+[21:43:49] [Server thread/INFO]: Stephyn123 issued server command: /gamemode survival
+[21:43:49] [Server thread/INFO]: [Stephyn123: Set own game mode to Survival Mode]
+[21:43:58] [Server thread/INFO]: Stephyn123 issued server command: /tp ~ 90 ~
+[21:43:58] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to -23.484330, 90.000000, 153.627004]
+[21:44:00] [Server thread/INFO]: Stephyn123 has reached the goal [Postmortal]
+[21:44:07] [Server thread/INFO]: Stephyn123 issued server command: /gamemode creative
+[21:44:07] [Server thread/INFO]: [Stephyn123: Set own game mode to Creative Mode]
+[21:44:13] [Server thread/INFO]: Stephyn123 issued server command: /gamemode spectator
+[21:44:13] [Server thread/INFO]: [Stephyn123: Set own game mode to Spectator Mode]
+[21:44:15] [Server thread/INFO]: Stephyn123 issued server command: /tp soft
+[21:44:15] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to soft]
+[21:44:21] [Server thread/INFO]: soft lost connection: Disconnected
+[21:44:21] [Server thread/INFO]: soft left the game
+[21:44:26] [Server thread/INFO]: Stephyn123 issued server command: /tp correa2
+[21:44:26] [Server thread/INFO]: [Stephyn123: Teleported Stephyn123 to correa2]
+[21:44:30] [Server thread/INFO]: Stephyn123 lost connection: Disconnected
+[21:44:31] [Server thread/INFO]: Stephyn123 left the game
+[21:45:11] [User Authenticator #3/INFO]: UUID of player soft is 2abce07c-ec5c-3155-a83d-28c7af4fb6eb
+[21:45:14] [Server thread/INFO]: soft joined the game
+[21:45:14] [Server thread/INFO]: soft[/127.102.58.161:52493] logged in with entity id 7998 at ([world]353.30000001192093, -5.72481598955059, -146.69999998807907)
+[21:46:53] [Server thread/INFO]: soft lost connection: Disconnected
+[21:46:53] [Server thread/INFO]: soft left the game
+[21:46:58] [User Authenticator #4/INFO]: UUID of player soft is 2abce07c-ec5c-3155-a83d-28c7af4fb6eb
+[21:47:00] [Server thread/INFO]: soft joined the game
+[21:47:00] [Server thread/INFO]: soft[/127.102.58.161:33981] logged in with entity id 8736 at ([world]394.00827861784376, 71.04289683901332, -270.41511025251793)
+[21:47:53] [Server thread/INFO]: soft lost connection: Disconnected
+[21:47:53] [Server thread/INFO]: soft left the game
+[21:47:57] [Async Chat Thread - #8/INFO]: [Not Secure] <correa2> soft
+[21:48:21] [User Authenticator #5/INFO]: UUID of player soft is 2abce07c-ec5c-3155-a83d-28c7af4fb6eb
+[21:48:23] [Server thread/INFO]: soft joined the game
+[21:48:23] [Server thread/INFO]: soft[/127.102.58.161:44699] logged in with entity id 9120 at ([world]377.4866531859897, 71.0, -255.730163469443)
+[21:48:25] [Async Chat Thread - #8/INFO]: [Not Secure] <correa2> soft
+[21:48:32] [Async Chat Thread - #8/INFO]: [Not Secure] <soft> qe
+[21:48:39] [Async Chat Thread - #8/INFO]: [Not Secure] <correa2> porque te salis y te volves a unir
+[21:48:47] [Async Chat Thread - #8/INFO]: [Not Secure] <soft> pq me pides cosas
+[21:48:52] [Async Chat Thread - #8/INFO]: [Not Secure] <soft> y no quiero morir por afk
