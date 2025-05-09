@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "infinity_cave:display/kills/common": {
+    "criteria": {
+      "requirement": "2025-05-09 23:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-09 22:41:08 +0000"
@@ -164,6 +170,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-09 23:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-09 23:40:52 +0000"
     },
     "done": true
   },
@@ -341,6 +353,12 @@
     },
     "done": true
   },
+  "enchantplus:armor/venom_protection": {
+    "criteria": {
+      "requirement": "2025-05-09 23:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-09 22:36:45 +0000"
@@ -362,6 +380,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-09 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
     },
     "done": true
   },
@@ -404,6 +428,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-09 22:58:37 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:list": {
+    "criteria": {
+      "requirement": "2025-05-09 23:48:10 +0000"
     },
     "done": true
   },
@@ -491,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-09 22:36:13 +0000"
@@ -557,9 +593,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-09 23:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-09 22:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-09 23:40:52 +0000"
     },
     "done": true
   },
@@ -587,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-09 22:24:47 +0000"
@@ -607,9 +661,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-09 23:46:09 +0000",
       "minecraft:skeleton": "2025-05-09 23:00:23 +0000",
       "minecraft:breeze": "2025-05-09 23:27:12 +0000",
+      "minecraft:vindicator": "2025-05-09 23:48:02 +0000",
       "minecraft:witch": "2025-05-09 23:32:03 +0000",
+      "minecraft:spider": "2025-05-09 23:47:01 +0000",
       "minecraft:zombie": "2025-05-09 22:33:00 +0000",
       "minecraft:creeper": "2025-05-09 23:23:16 +0000",
       "minecraft:zombie_villager": "2025-05-09 22:34:46 +0000",
@@ -645,6 +702,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-09 23:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-09 23:40:52 +0000"
     },
     "done": true
   },
@@ -744,6 +807,18 @@
     },
     "done": true
   },
+  "infinity_cave:display/root": {
+    "criteria": {
+      "requirement": "2025-05-09 23:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-09 23:40:52 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:mechanics/weapons/thunder_harpoon/tick": {
     "criteria": {
       "requirement": "2025-05-09 22:24:13 +0000"
@@ -795,6 +870,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-09 22:58:37 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/1": {
+    "criteria": {
+      "requirement": "2025-05-09 23:48:08 +0000"
     },
     "done": true
   },
@@ -888,6 +969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-09 22:25:57 +0000"
@@ -972,6 +1059,12 @@
     },
     "done": true
   },
+  "enchantplus:weapons/sword/base": {
+    "criteria": {
+      "life_steal": "2025-05-09 23:48:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-05-09 22:24:47 +0000"
@@ -987,6 +1080,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-05-09 23:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-09 23:47:15 +0000"
     },
     "done": true
   },
@@ -1008,15 +1107,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-09 23:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-09 23:00:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-09 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-09 23:47:11 +0000"
     },
     "done": true
   },
@@ -1290,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-05-09 22:36:13 +0000"
@@ -1335,6 +1458,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-09 22:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
     },
     "done": true
   },
@@ -1452,6 +1581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-09 23:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-09 22:25:17 +0000"
@@ -1545,6 +1680,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-05-09 22:31:07 +0000",
+      "minecraft:beach": "2025-05-09 23:40:50 +0000",
       "minecraft:forest": "2025-05-09 22:24:14 +0000",
       "minecraft:river": "2025-05-09 22:24:46 +0000",
       "minecraft:swamp": "2025-05-09 23:15:45 +0000",
@@ -1591,6 +1727,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-09 23:31:45 +0000"
@@ -1606,6 +1754,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-09 22:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-09 23:43:11 +0000"
     },
     "done": true
   },
@@ -1711,6 +1865,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-09 23:04:14 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/life_steal": {
+    "criteria": {
+      "requirement": "2025-05-09 23:48:11 +0000"
     },
     "done": true
   },
