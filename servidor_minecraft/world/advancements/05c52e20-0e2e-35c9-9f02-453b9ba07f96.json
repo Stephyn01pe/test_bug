@@ -698,6 +698,7 @@
       "minecraft:pillager": "2025-05-09 01:02:44 +0000",
       "minecraft:skeleton": "2025-05-09 21:40:38 +0000",
       "minecraft:enderman": "2025-05-09 01:06:08 +0000",
+      "minecraft:silverfish": "2025-05-09 22:10:04 +0000",
       "minecraft:spider": "2025-05-09 01:03:00 +0000",
       "minecraft:wither_skeleton": "2025-05-09 01:10:23 +0000",
       "minecraft:zombie": "2025-05-09 00:35:21 +0000",
@@ -1433,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-09 22:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-09 21:48:41 +0000"
@@ -1529,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-09 22:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-09 21:48:41 +0000"
@@ -1544,6 +1557,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-09 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-09 22:11:05 +0000"
     },
     "done": true
   },
@@ -1568,6 +1587,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-09 21:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-09 22:11:05 +0000"
     },
     "done": true
   },
@@ -1676,6 +1701,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-09 21:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-09 22:10:59 +0000"
     },
     "done": true
   },
