@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-05-09 21:30:23 +0000",
+      "minecraft:beach": "2025-05-09 23:38:46 +0000",
       "minecraft:forest": "2025-05-04 23:52:06 +0000",
       "minecraft:river": "2025-05-04 23:58:43 +0000",
       "minecraft:birch_forest": "2025-05-05 00:04:34 +0000",
@@ -294,6 +295,7 @@
       "minecraft:zombie": "2025-05-04 23:57:24 +0000",
       "minecraft:creeper": "2025-05-09 22:22:13 +0000",
       "minecraft:drowned": "2025-05-09 22:39:39 +0000",
+      "minecraft:ghast": "2025-05-09 23:31:51 +0000",
       "minecraft:slime": "2025-05-08 23:55:38 +0000"
     },
     "done": false
@@ -2227,6 +2229,48 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-05-09 23:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-09 23:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-09 23:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-09 23:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-09 23:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-09 23:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-09 23:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-09 23:37:17 +0000"
     },
     "done": true
   },
