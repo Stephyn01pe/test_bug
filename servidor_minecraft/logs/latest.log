@@ -109,3 +109,17 @@
 [00:40:55] [User Authenticator #12/INFO]: UUID of player IamNik is 9e3ad26a-793b-3e52-b0b3-e5468394702d
 [00:40:58] [Server thread/INFO]: IamNik joined the game
 [00:40:58] [Server thread/INFO]: IamNik[/127.224.62.13:58717] logged in with entity id 20577 at ([world]216.76292005105094, 64.0, -74.46668924132892)
+[00:41:18] [Async Chat Thread - #12/INFO]: [Not Secure] <IamNik> ya volvi de comer
+[00:41:24] [Async Chat Thread - #12/INFO]: [Not Secure] <correa2> que comiste
+[00:41:36] [Async Chat Thread - #12/INFO]: [Not Secure] <IamNik> maduro con queso
+[00:46:11] [Server thread/INFO]: Koi_btg issued server command: /skill
+[00:51:33] [Server thread/INFO]: Koi_btg lost connection: Disconnected
+[00:51:33] [Server thread/INFO]: Koi_btg left the game
+[00:51:50] [User Authenticator #13/INFO]: UUID of player Koi_btg is 95aa3a45-6089-3409-ad5c-f02120bc0a3d
+[00:51:51] [Server thread/INFO]: Koi_btg joined the game
+[00:51:51] [Server thread/INFO]: Koi_btg[/127.118.199.135:59103] logged in with entity id 24972 at ([world]761.6032689673656, 77.0, 438.14813193497076)
+[00:54:39] [Server thread/INFO]: Koi_btg has made the advancement [A Seedy Place]
+[00:55:36] [Server thread/INFO]: Villager Villager['Villager'/25170, uuid='e962efbb-a0c9-4a0a-8b50-c9f1edb982c1', l='ServerLevel[world]', x=656.30, y=79.18, z=340.36, cpos=[41, 21], tl=9645, v=true] died, message: 'Villager was slain by Zombie'
+[00:58:12] [Server thread/INFO]: Koi_btg has made the advancement [Best Friends Forever]
+[00:59:56] [Server thread/INFO]: Koi_btg issued server command: /skill
+[01:00:43] [Server thread/INFO]: correa2 has made the advancement [Diamonds!]
