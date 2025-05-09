@@ -399,6 +399,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-08 23:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-08 23:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-08 23:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-08 23:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
@@ -414,12 +492,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
     },
     "done": true
   },
@@ -441,18 +513,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-05-08 23:47:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
@@ -462,24 +522,6 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-08 23:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-08 23:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
     },
     "done": true
   },
@@ -495,21 +537,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-05-08 23:48:05 +0000"
     },
     "done": true
   },
@@ -531,18 +561,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
@@ -561,39 +579,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-05-08 23:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-08 23:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-08 23:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
     },
     "done": true
   },
@@ -615,15 +603,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_obsidian": "2025-05-08 23:45:36 +0000"
+      "has_bone": "2025-05-08 23:47:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_granite": "2025-05-08 23:45:41 +0000"
+      "has_chorus_fruit": "2025-05-08 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-08 23:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-08 23:48:24 +0000"
     },
     "done": true
   },

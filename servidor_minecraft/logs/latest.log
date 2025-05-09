@@ -123,3 +123,34 @@
 [00:58:12] [Server thread/INFO]: Koi_btg has made the advancement [Best Friends Forever]
 [00:59:56] [Server thread/INFO]: Koi_btg issued server command: /skill
 [01:00:43] [Server thread/INFO]: correa2 has made the advancement [Diamonds!]
+[01:02:21] [Server thread/INFO]: Koi_btg lost connection: Disconnected
+[01:02:21] [Server thread/INFO]: Koi_btg left the game
+[01:02:26] [Server thread/INFO]: correa2 has made the advancement [Infinity Cave]
+[01:02:39] [Server thread/INFO]: correa2 has made the advancement [Not Today, Thank You]
+[01:02:44] [Server thread/INFO]: correa2 has made the advancement [Perplexing Stuff Init?]
+[01:02:44] [Server thread/INFO]: Named entity Pillager['Common Pillager'/29532, uuid='e8f0eef8-2267-4527-8fa1-5f4b238c1360', l='ServerLevel[world]', x=118.81, y=-80.00, z=-94.63, cpos=[7, -6], tl=291, v=true] died: Common Pillager was slain by correa2
+[01:03:00] [Server thread/INFO]: Named entity Spider['Common Spider'/29553, uuid='da152eea-8db3-47e2-a996-682bb778ddba', l='ServerLevel[world]', x=118.90, y=-80.00, z=-99.92, cpos=[7, -7], tl=411, v=true] died: Common Spider was slain by correa2
+[01:03:15] [User Authenticator #14/INFO]: UUID of player Koi_btg is 95aa3a45-6089-3409-ad5c-f02120bc0a3d
+[01:03:17] [Server thread/INFO]: Koi_btg joined the game
+[01:03:17] [Server thread/INFO]: Koi_btg[/127.118.199.135:41685] logged in with entity id 29706 at ([world]360.2908277646733, 80.0, 419.04532658954264)
+[01:03:53] [Server thread/INFO]: Koi_btg has made the advancement [Hot Stuff]
+[01:06:08] [Server thread/INFO]: Named entity EnderMan['Common Enderman'/31147, uuid='5feeb497-28ec-4a7a-9359-386941aed1d3', l='ServerLevel[world]', x=100.45, y=-81.00, z=-93.38, cpos=[6, -6], tl=206, v=true] died: Common Enderman was slain by correa2
+[01:06:22] [Server thread/INFO]: Koi_btg has made the advancement [Ice Bucket Challenge]
+[01:07:10] [Server thread/INFO]: Named entity Slime['Common Slime'/31562, uuid='ad88483b-d05a-4c96-a58e-3dc2931b3bfd', l='ServerLevel[world]', x=118.93, y=-83.50, z=-198.04, cpos=[7, -13], tl=282, v=true] died: Common Slime was slain by correa2
+[01:07:46] [Server thread/INFO]: Named entity Drowned['Common Drowned'/31863, uuid='1bddacbb-46c6-43af-8bee-a59fd0eeb8d8', l='ServerLevel[world]', x=83.00, y=-89.00, z=-226.27, cpos=[5, -15], tl=195, v=true] died: Common Drowned was slain by correa2
+[01:07:54] [Server thread/INFO]: Named entity Spider['Common Spider'/31895, uuid='4bf30a08-6f1e-4c2a-a62b-f428ef563220', l='ServerLevel[world]', x=85.13, y=-89.00, z=-225.17, cpos=[5, -15], tl=185, v=true] died: Common Spider was slain by correa2
+[01:08:39] [Server thread/INFO]: correa2 has made the advancement [☠ ☠ ☠ ☠ ☠]
+[01:08:39] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/32041, uuid='946d161e-97c5-4068-906c-491e2c53acbe', l='ServerLevel[world]', x=80.35, y=-92.00, z=-235.35, cpos=[5, -15], tl=554, v=true] died: Uncommon Drowned was slain by correa2
+[01:08:48] [Async Chat Thread - #14/INFO]: [Not Secure] <IamNik> QQQQQQ
+[01:08:55] [User Authenticator #15/INFO]: UUID of player Stephyn123 is 163554d9-f4b1-3822-a84b-d9cb7a1216c1
+[01:08:56] [Async Chat Thread - #14/INFO]: [Not Secure] <IamNik> CUAL ES ESE WE
+[01:08:56] [Server thread/INFO]: Stephyn123 joined the game
+[01:08:56] [Server thread/INFO]: Stephyn123[/127.152.65.23:40261] logged in with entity id 32255 at ([world]-161.17731267585322, -22.506092519770526, 9.04759320015742)
+[01:09:01] [Server thread/INFO]: Stephyn123 lost connection: Disconnected
+[01:09:01] [Server thread/INFO]: Stephyn123 left the game
+[01:09:33] [Server thread/INFO]: Koi_btg lost connection: Disconnected
+[01:09:33] [Server thread/INFO]: Koi_btg left the game
+[01:09:38] [Server thread/WARN]: Skipping Entity with id 
+[01:09:50] [Server thread/INFO]: Named entity Creeper['Common Rocklops'/32554, uuid='f1121a84-b335-47ea-9516-107e50a75e20', l='ServerLevel[world]', x=103.46, y=-87.00, z=-229.18, cpos=[6, -15], tl=230, v=true] died: Common Rocklops was slain by correa2
+[01:10:23] [Server thread/INFO]: Named entity WitherSkeleton['Common Wither Skeleton'/32692, uuid='83619905-91b3-45f5-93b7-43459716b0f6', l='ServerLevel[world]', x=109.60, y=-85.00, z=-203.58, cpos=[6, -13], tl=221, v=true] died: Common Wither Skeleton was slain by correa2
+[01:11:31] [Server thread/INFO]: Named entity Drowned['Common Drowned'/32902, uuid='9a8e2e75-7d85-4a86-8deb-b23e9d9f342c', l='ServerLevel[world]', x=116.32, y=-84.00, z=-204.76, cpos=[7, -13], tl=428, v=true] died: Common Drowned was slain by correa2
