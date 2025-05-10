@@ -1,8 +1,8 @@
 uuid: 8f988514-fc94-36d8-95c1-48d0ce207e9b
 skills:
   auraskills/fighting:
-    level: 0
-    xp: 68.0
+    level: 1
+    xp: 4.0
   auraskills/archery:
     level: 0
     xp: 0.0
@@ -11,16 +11,16 @@ skills:
     xp: 68.0
   auraskills/mining:
     level: 1
-    xp: 35.899999999999956
+    xp: 50.399999999999906
   auraskills/alchemy:
     level: 0
     xp: 0.0
   auraskills/defense:
-    level: 0
-    xp: 86.41940021514893
+    level: 1
+    xp: 52.2959623336792
   auraskills/agility:
     level: 1
-    xp: 26.2688
+    xp: 129.71300000000002
   auraskills/fishing:
     level: 0
     xp: 0.0

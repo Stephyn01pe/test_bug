@@ -1798,15 +1798,39 @@
     },
     "done": true
   },
+  "enchantplus:list": {
+    "criteria": {
+      "requirement": "2025-05-09 23:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-09 23:51:48 +0000"
     },
     "done": true
   },
+  "infinity_cave:display/root": {
+    "criteria": {
+      "requirement": "2025-05-09 23:55:00 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:display/warning": {
     "criteria": {
       "location": "2025-05-09 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "enchantplus:weapons/sword/base": {
+    "criteria": {
+      "attack_speed": "2025-05-09 23:55:38 +0000"
+    },
+    "done": false
+  },
+  "enchantplus:weapons/sword/attack_speed": {
+    "criteria": {
+      "requirement": "2025-05-09 23:55:38 +0000"
     },
     "done": true
   },

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "infinity_cave:display/kills/uncommon": {
+    "criteria": {
+      "requirement": "2025-05-09 23:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-09 22:36:45 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-09 23:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-09 23:04:10 +0000"
@@ -437,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-09 23:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-09 23:35:34 +0000"
@@ -581,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-09 23:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-09 22:36:45 +0000"
@@ -669,6 +693,7 @@
       "minecraft:spider": "2025-05-09 23:47:01 +0000",
       "minecraft:zombie": "2025-05-09 22:33:00 +0000",
       "minecraft:creeper": "2025-05-09 23:23:16 +0000",
+      "minecraft:drowned": "2025-05-09 23:49:12 +0000",
       "minecraft:zombie_villager": "2025-05-09 22:34:46 +0000",
       "minecraft:bogged": "2025-05-09 23:20:32 +0000",
       "minecraft:slime": "2025-05-09 23:05:59 +0000"
@@ -864,6 +889,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-09 23:14:37 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:display/enchantlet/2": {
+    "criteria": {
+      "requirement": "2025-05-09 23:53:48 +0000"
     },
     "done": true
   },
@@ -1551,6 +1582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-09 23:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-09 22:36:45 +0000"
@@ -1807,6 +1844,12 @@
       "cooked_beef": "2025-05-09 22:58:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-09 23:51:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
